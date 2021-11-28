@@ -1,0 +1,9 @@
+[theater]
+title = "네이버 공연 ─ 네이버TV"
+url = "https://tv.naver.com/theater/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"

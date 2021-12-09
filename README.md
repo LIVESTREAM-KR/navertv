@@ -7,7 +7,7 @@ https://livestream-kr.github.io/navertv/all.xml
 - 
 ## 음악 프로그램
 https://livestream-kr.github.io/navertv_program/all.xml
-- 뮤직뱅크: https://livestream-kr.github.io/navertv_program/navertv_musicbank.xml
+- 뮤직뱅크: https://livestream-kr.github.io/navertv_program/musicbank.xml
 - 쇼! 음악중심: https://livestream-kr.github.io/navertv_program/navertv_showmusiccore.xml
 - 인기가요: https://livestream-kr.github.io/navertv_program/navertv_inkigayo.xml
 - 엠카운트다운: https://livestream-kr.github.io/navertv_program/navertv_mcountdown.xml

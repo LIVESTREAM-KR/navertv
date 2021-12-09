@@ -6,7 +6,6 @@ https://livestream-kr.github.io/navertv/all.xml
 - 네이버 나우.: https://livestream-kr.github.io/navertv/nowkr.xml
 - 
 ## [음악 프로그램](https://github.com/LIVESTREAM-KR/navertv_program)
-# 네이버TV 음악 프로그램
 https://livestream-kr.github.io/navertv_program/all.xml
 - 뮤직뱅크: https://livestream-kr.github.io/navertv_program/musicbank.xml
 - 쇼! 음악중심: https://livestream-kr.github.io/navertv_program/showmusiccore.xml

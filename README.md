@@ -3,8 +3,8 @@
 ## 네이버 공식
 https://livestream-kr.github.io/navertv/all.xml
 - 네이버 공연: https://livestream-kr.github.io/navertv/theater.xml
-- 네이버 나우.: https://livestream-kr.github.io/navertv/nowkr.xml
-- 
+- 네이버 나우: https://livestream-kr.github.io/navertv/nowkr.xml
+
 ## [음악 프로그램](https://github.com/LIVESTREAM-KR/navertv_program)
 https://livestream-kr.github.io/navertv_program/all.xml
 - 뮤직뱅크: https://livestream-kr.github.io/navertv_program/musicbank.xml

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 06:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Thu, 02 Dec 2021 16:02:15 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_265/Fhmb7_1638460554529TUroP_JPEG/e49e90ee-5387-11ec-9ac7-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23545224</link>
-            <guid>https://tv.naver.com/v/23545224</guid>
-            <pubDate>Sun, 28 Nov 2021 19:49:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:34:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211116_172/HQy79_1636990180993yxKTD_JPEG/1636990097508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 윤도현 Ver. (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23483365</link>
-            <guid>https://tv.naver.com/v/23483365</guid>
-            <pubDate>Sun, 28 Nov 2021 19:49:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:34:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_146/xDsgQ_1636702851019v6B9G_JPEG/1636702846987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현식 추억 콘서트 생중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
@@ -246,6 +230,22 @@
             <pubDate>Sun, 28 Nov 2021 19:49:51 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210727_9/3aC5x_1627376269834lkqif_JPEG/389ae33c-eeb8-11eb-90ce-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <브라더스 까라마조프> 후원 Live (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21559348</link>
+            <guid>https://tv.naver.com/v/21559348</guid>
+            <pubDate>Tue, 14 Dec 2021 06:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210727_187/95ich_16273759700794Gpob_JPEG/2ab62ce8-eeb7-11eb-919a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자라섬 온라인 올라잇 재즈 페스티벌 예고 영상 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21337166</link>
+            <guid>https://tv.naver.com/v/21337166</guid>
+            <pubDate>Tue, 14 Dec 2021 06:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210715_60/x6JnT_1626325451714TE0vd_JPEG/9fdc767f-e528-11eb-901a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버 나우 ─ 네이버TV)]]></title>

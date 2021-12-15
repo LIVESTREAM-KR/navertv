@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] Christmas at HOME - 조수미 & 이 무지치 네이버 후원라이브 생중계! (12/25 오후 5시) (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24088506</link>
+            <guid>https://tv.naver.com/v/24088506</guid>
+            <pubDate>Wed, 15 Dec 2021 06:02:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_183/HOLxC_1639545952227Nrery_JPEG/1639545944724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김장훈 Christmas Concert 부스터샷 (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23890677</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Dec 2021 06:01:31 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210727_187/95ich_16273759700794Gpob_JPEG/2ab62ce8-eeb7-11eb-919a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자라섬 온라인 올라잇 재즈 페스티벌 예고 영상 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21337166</link>
-            <guid>https://tv.naver.com/v/21337166</guid>
-            <pubDate>Tue, 14 Dec 2021 06:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210715_60/x6JnT_1626325451714TE0vd_JPEG/9fdc767f-e528-11eb-901a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버 나우 ─ 네이버TV)]]></title>

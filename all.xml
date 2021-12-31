@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 07:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 08:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 2022 신년음악회 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24375004</link>
+            <guid>https://tv.naver.com/v/24375004</guid>
+            <pubDate>Fri, 31 Dec 2021 08:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_90/pCbN9_1640935802089YXhs8_JPEG/f4345453-6a0a-11ec-9d44-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] Christmas at HOME - 조수미 & 이 무지치 네이버 후원라이브 생중계! (12/25 오후 5시) (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24088506</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 28 Nov 2021 19:49:51 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210727_9/3aC5x_1627376269834lkqif_JPEG/389ae33c-eeb8-11eb-90ce-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <브라더스 까라마조프> 후원 Live (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21559348</link>
-            <guid>https://tv.naver.com/v/21559348</guid>
-            <pubDate>Tue, 14 Dec 2021 06:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210727_187/95ich_16273759700794Gpob_JPEG/2ab62ce8-eeb7-11eb-919a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버 나우 ─ 네이버TV)]]></title>

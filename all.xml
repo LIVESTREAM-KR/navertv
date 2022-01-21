@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 11:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 12:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 참가작 5 <희든트랙> (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24733458</link>
+            <guid>https://tv.naver.com/v/24733458</guid>
+            <pubDate>Fri, 21 Jan 2022 12:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_167/vnExJ_1642764657012PONK0_JPEG/1642764565604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 참가작 4 <지구로 가는 버스> (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24733424</link>
+            <guid>https://tv.naver.com/v/24733424</guid>
+            <pubDate>Fri, 21 Jan 2022 12:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_106/34FoQ_1642764547192baO1H_JPEG/1642764453554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 참가작 3 <감염자들> (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24733381</link>
+            <guid>https://tv.naver.com/v/24733381</guid>
+            <pubDate>Fri, 21 Jan 2022 12:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_76/WRXHo_1642764436021AmzQ1_JPEG/1642764350856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 참가작 2 <장례희망> (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24733336</link>
+            <guid>https://tv.naver.com/v/24733336</guid>
+            <pubDate>Fri, 21 Jan 2022 12:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_76/10ZvZ_1642764331170CeTg4_PNG/1642763744545.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 참가작 1 <눈부시게 어두운> (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24733299</link>
+            <guid>https://tv.naver.com/v/24733299</guid>
+            <pubDate>Fri, 21 Jan 2022 12:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_288/0wdS3_1642764243297MrHPD_JPEG/1642764134334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 곤 투모로우 실황 중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24442480</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 15:01:43 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_150/gBkxt_1630645807595fSUMR_JPEG/981dec0f-0c74-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <미숙의 쿠키상자> 생중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22149489</link>
-            <guid>https://tv.naver.com/v/22149489</guid>
-            <pubDate>Thu, 06 Jan 2022 15:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_255/bDMhU_16303190705084bjem_JPEG/47beb2c6-097b-11ec-9d7e-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <너를 만난다> 생중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22149152</link>
-            <guid>https://tv.naver.com/v/22149152</guid>
-            <pubDate>Thu, 06 Jan 2022 15:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_224/N8Uj5_1630318238600ly4vU_JPEG/0f1a5756-0979-11ec-86ec-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <금악:禁樂> 프레스콜 녹화중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21911395</link>
-            <guid>https://tv.naver.com/v/21911395</guid>
-            <pubDate>Thu, 06 Jan 2022 15:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_233/w1ia9_1629182970914OFKYu_JPEG/77af2822-ff26-11eb-86ec-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제7회 계촌 클래식 축제 온라인 실황 중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21821045</link>
-            <guid>https://tv.naver.com/v/21821045</guid>
-            <pubDate>Thu, 06 Jan 2022 15:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210812_120/E4QNH_1628734753680ikKkD_JPEG/e6435e91-fb12-11eb-9845-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <광화문연가> 프레스콜 생중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21563705</link>
-            <guid>https://tv.naver.com/v/21563705</guid>
-            <pubDate>Thu, 06 Jan 2022 15:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210727_131/RxyoN_1627390176406Bg3iE_JPEG/773105cb-eed8-11eb-818a-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버 나우 ─ 네이버TV)]]></title>

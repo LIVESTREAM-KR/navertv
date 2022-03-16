@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 11:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 12:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저스트 절크 토크 콘서트 후원 라이브 예고 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25684096</link>
+            <guid>https://tv.naver.com/v/25684096</guid>
+            <pubDate>Wed, 16 Mar 2022 12:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_188/5VtS5_1647432383200Y4Onu_JPEG/b77c8421-a520-11ec-ab6f-505dac8c3639_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 레드북 후원 라이브 예고 (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25424355</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210830_255/bDMhU_16303190705084bjem_JPEG/47beb2c6-097b-11ec-9d7e-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <너를 만난다> 생중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22149152</link>
-            <guid>https://tv.naver.com/v/22149152</guid>
-            <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_224/N8Uj5_1630318238600ly4vU_JPEG/0f1a5756-0979-11ec-86ec-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버 나우 ─ 네이버TV)]]></title>

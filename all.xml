@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 23:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 00:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악극 올드위키드 송 후원라이브 예고 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26571739</link>
+            <guid>https://tv.naver.com/v/26571739</guid>
+            <pubDate>Tue, 03 May 2022 00:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_259/H1S1K_1651532536457hfqyG_JPEG/63bf5e9d-ca21-11ec-b765-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 아이다 CAST PARTY 예고영상 (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26018850</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210908_294/uiZK7_1631084860883OUDHp_JPEG/8c84c3dd-1072-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제18회 대구국제오페라축제 개막작 <토스카> 생중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22326106</link>
-            <guid>https://tv.naver.com/v/22326106</guid>
-            <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_119/tH1NB_1631031547621HLkzp_JPEG/f1f76837-0ff5-11ec-8678-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버 나우 ─ 네이버TV)]]></title>

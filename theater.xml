@@ -4,9 +4,17 @@
         <title>네이버 공연 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 12:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 13:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 광주 공연실황 라이브 예고]]></title>
+            <link>https://tv.naver.com/v/26700243</link>
+            <guid>https://tv.naver.com/v/26700243</guid>
+            <pubDate>Tue, 10 May 2022 13:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_69/dwH8R_1652185007444tshRY_JPEG/53ccfdb2-d05a-11ec-bdfe-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악극 올드위키드 송 후원라이브 예고]]></title>
             <link>https://tv.naver.com/v/26571739</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_294/Y09Lk_1631541912323WHJf9_JPEG/a9092a43-1497-11ec-86ec-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조성진 피아노 리사이틀 앙코르 생중계 예고 영상]]></title>
-            <link>https://tv.naver.com/v/22337556</link>
-            <guid>https://tv.naver.com/v/22337556</guid>
-            <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_294/uiZK7_1631084860883OUDHp_JPEG/8c84c3dd-1072-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

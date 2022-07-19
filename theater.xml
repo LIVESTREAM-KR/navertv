@@ -4,7 +4,7 @@
         <title>네이버 공연 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 15:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 16:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Mon, 18 Jul 2022 04:36:19 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220718_69/Z6RGr_1658115052934txcPd_JPEG/279e2c85-0649-11ed-b6ab-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두산아트센터] 두산인문극장 2022: 공정, 연극 <당선자 없음>]]></title>
-            <link>https://tv.naver.com/v/27941791</link>
-            <guid>https://tv.naver.com/v/27941791</guid>
-            <pubDate>Sun, 17 Jul 2022 04:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:55:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_195/sdQm7_1657781523584AOfC2_JPEG/9bab2153-033f-11ed-a120-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두산아트센터] 두산인문극장 2022: 공정, 연극 <당선자 없음>(한글자막 제공)]]></title>
-            <link>https://tv.naver.com/v/27941778</link>
-            <guid>https://tv.naver.com/v/27941778</guid>
-            <pubDate>Sun, 17 Jul 2022 04:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:55:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_294/S9lXp_1657781515830UgdDT_JPEG/f728ca26-033c-11ed-8863-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두산아트센터] 연극 '당선자 없음' 온라인 공연 예고]]></title>
@@ -246,6 +230,22 @@
             <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210914_161/kzWTN_1631547788524mmkjd_JPEG/473e9ea6-14a8-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작연희극 <줄 타는 아이와 아프리카도마뱀> 녹화중계 예고영상]]></title>
+            <link>https://tv.naver.com/v/22430179</link>
+            <guid>https://tv.naver.com/v/22430179</guid>
+            <pubDate>Tue, 19 Jul 2022 16:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_37/oUksi_1631546686539MORKs_JPEG/f40fa2da-14a4-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <햄릿의 비극> 녹화중계 예고영상]]></title>
+            <link>https://tv.naver.com/v/22429934</link>
+            <guid>https://tv.naver.com/v/22429934</guid>
+            <pubDate>Tue, 19 Jul 2022 16:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_217/ZTvIc_1631545480896sYBBA_JPEG/2b5dae69-14a2-11ec-9845-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

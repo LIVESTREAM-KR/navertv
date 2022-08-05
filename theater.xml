@@ -4,9 +4,17 @@
         <title>네이버 공연 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8/3 뮤지컬 <서편제> 송스루 리허설 예고편]]></title>
+            <link>https://tv.naver.com/v/28390409</link>
+            <guid>https://tv.naver.com/v/28390409</guid>
+            <pubDate>Fri, 05 Aug 2022 07:01:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_296/Vh0uH_1659680723286gmk9y_JPEG/d97e2770-1486-11ed-9fa8-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생중계 예고] 8월 31일(수) 조성진 그리고 쇼팽]]></title>
             <link>https://tv.naver.com/v/28187263</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210914_161/kzWTN_1631547788524mmkjd_JPEG/473e9ea6-14a8-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작연희극 <줄 타는 아이와 아프리카도마뱀> 녹화중계 예고영상]]></title>
-            <link>https://tv.naver.com/v/22430179</link>
-            <guid>https://tv.naver.com/v/22430179</guid>
-            <pubDate>Tue, 19 Jul 2022 16:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_37/oUksi_1631546686539MORKs_JPEG/f40fa2da-14a4-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

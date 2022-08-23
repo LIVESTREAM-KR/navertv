@@ -4,9 +4,17 @@
         <title>네이버 공연 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST> 녹화 중계 예고]]></title>
+            <link>https://tv.naver.com/v/28744587</link>
+            <guid>https://tv.naver.com/v/28744587</guid>
+            <pubDate>Tue, 23 Aug 2022 10:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_206/6AxAB_1661248393893CPDqw_JPEG/941c4ead-22c8-11ed-8892-505dac8c35ff_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8/8 뮤지컬 <서편제> 송스루 리허설 예고편]]></title>
             <link>https://tv.naver.com/v/28390409</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_43/6CXeo_16326969470243Xj2S_JPEG/dc84047d-1f1b-11ec-a9f1-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자전거 탄 풍경 at home 콘서트 온라인 생중계 예고]]></title>
-            <link>https://tv.naver.com/v/22430399</link>
-            <guid>https://tv.naver.com/v/22430399</guid>
-            <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_161/kzWTN_1631547788524mmkjd_JPEG/473e9ea6-14a8-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

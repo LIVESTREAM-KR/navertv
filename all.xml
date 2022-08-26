@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 10:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 11:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <홀연했던 사나이> 공연 라이브 예고 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28827170</link>
+            <guid>https://tv.naver.com/v/28827170</guid>
+            <pubDate>Fri, 26 Aug 2022 11:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_240/idbJy_1661511579503334Tr_JPEG/b4fd6f8f-252c-11ed-a7c3-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST> 녹화 중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28744587</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_220/Qnad8_1633050820237C9nO3_JPEG/45f84bc2-2254-11ec-93f2-a0369ff95ec0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <1976 할란카운티> 온라인 라이브 예고 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22632698</link>
-            <guid>https://tv.naver.com/v/22632698</guid>
-            <pubDate>Sun, 13 Feb 2022 15:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_43/6CXeo_16326969470243Xj2S_JPEG/dc84047d-1f1b-11ec-a9f1-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버 나우 ─ 네이버TV)]]></title>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 06:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 07:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼뮤지컬 <드림하이> 프레스콜 예고 영상 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35861243</link>
+            <guid>https://tv.naver.com/v/35861243</guid>
+            <pubDate>Fri, 12 May 2023 07:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_7/6WT3j_1683872091055tcfof_JPEG/8d78d4d4-f08b-11ed-83da-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <용의자 X의 헌신> 온라인 공연 예고 영상 (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32088548</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:20:56 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_7/a9bvQ_1638532760449P8hAQ_JPEG/1bcc4d74-5430-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIMF 12월 뮤지컬 콘서트 <동행, 다시 함께> 스팟 영상공개🎥 (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23870871</link>
-            <guid>https://tv.naver.com/v/23870871</guid>
-            <pubDate>Wed, 16 Nov 2022 17:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_265/Fhmb7_1638460554529TUroP_JPEG/e49e90ee-5387-11ec-9ac7-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버앱에서 보는 XR라이브 KPOP파티ㅣ10/26 (월) 밤 9시 (네이버 나우 ─ 네이버TV)]]></title>

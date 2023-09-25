@@ -4,9 +4,17 @@
         <title>네이버 공연 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 08:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <판> 공연실황 중계 예고]]></title>
+            <link>https://tv.naver.com/v/40698907</link>
+            <guid>https://tv.naver.com/v/40698907</guid>
+            <pubDate>Mon, 25 Sep 2023 09:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_195/Z8ct4_1695632195425RQVHG_JPEG/d9cf7f9e-5b80-11ee-9c90-d4f5ef58ad5e_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <할란카운티> 프레스콜]]></title>
             <link>https://tv.naver.com/v/36326366</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Jun 2023 10:02:15 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_90/pCbN9_1640935802089YXhs8_JPEG/f4345453-6a0a-11ec-9d44-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] Christmas at HOME - 조수미 & 이 무지치 네이버 후원라이브 생중계! (12/25 오후 5시)]]></title>
-            <link>https://tv.naver.com/v/24088506</link>
-            <guid>https://tv.naver.com/v/24088506</guid>
-            <pubDate>Mon, 05 Jun 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_183/HOLxC_1639545952227Nrery_JPEG/1639545944724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

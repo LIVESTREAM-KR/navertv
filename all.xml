@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 04:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 05:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[두산아트센터] 연극 <잘못된 성장의 사례> (한글자막) (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42940726</link>
-            <guid>https://tv.naver.com/v/42940726</guid>
-            <pubDate>Fri, 17 Nov 2023 02:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:56:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_290/jVrQ2_1700121622633wr6LG_JPEG/915155bc-8454-11ee-8f45-80615f0c465c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두산아트센터] 연극 <잘못된 성장의 사례> (무자막) (네이버 공연 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42829807</link>
-            <guid>https://tv.naver.com/v/42829807</guid>
-            <pubDate>Fri, 17 Nov 2023 02:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:56:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_286/3ODoU_1699955381470rkj7w_JPEG/24320e66-82d1-11ee-ac75-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[두산아트센터] 연극 '잘못된 성장의 사례' 온라인 공연 예고 (네이버 공연 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42173791</link>
@@ -246,6 +230,22 @@
             <pubDate>Wed, 16 Nov 2022 17:20:56 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_11/1KpCd_16438738693573QdB2_JPEG/1b2548bc-84c3-11ec-bf46-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 이토록 보통의 후원 라이브 사전 예고 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24909890</link>
+            <guid>https://tv.naver.com/v/24909890</guid>
+            <pubDate>Tue, 21 Nov 2023 05:01:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_10/EdLaN_16438708874459Sggw_JPEG/872b69a2-84bc-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 곤 투모로우 실황 중계 예고 (네이버 공연 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24442480</link>
+            <guid>https://tv.naver.com/v/24442480</guid>
+            <pubDate>Tue, 21 Nov 2023 05:01:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_158/wvPQU_1641359782770WoIiG_JPEG/5e0cf065-6de4-11ec-8a04-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버앱에서 보는 XR라이브 KPOP파티ㅣ10/26 (월) 밤 9시 (네이버 나우 ─ 네이버TV)]]></title>

@@ -4,9 +4,17 @@
         <title>네이버 공연 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 08:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 09:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <이토록 보통의> 후원라이브 예고 영상 (화면해설)]]></title>
+            <link>https://tv.naver.com/v/44428210</link>
+            <guid>https://tv.naver.com/v/44428210</guid>
+            <pubDate>Sat, 16 Dec 2023 09:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_259/EG3NZ_17027170638128ISn9_JPEG/8a7b0c34-9bf0-11ee-badd-48df37e2c30a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 겨울나그네_시츠프로브 중계 예고]]></title>
             <link>https://tv.naver.com/v/44131622</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 Jan 2023 23:01:41 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_11/1KpCd_16438738693573QdB2_JPEG/1b2548bc-84c3-11ec-bf46-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 이토록 보통의 후원 라이브 사전 예고]]></title>
-            <link>https://tv.naver.com/v/24909890</link>
-            <guid>https://tv.naver.com/v/24909890</guid>
-            <pubDate>Tue, 21 Nov 2023 05:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_10/EdLaN_16438708874459Sggw_JPEG/872b69a2-84bc-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
